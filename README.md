@@ -1,4 +1,4 @@
-<img src="5a8322df47cc01f5302d70fa7442c131.jpg" alt="GitHub Banner" width="100%" />
+<img src="5a8322df47cc01f5302d70fa7442c131.jpg" alt="GitHub Banner" width="60%" />
 <h2 align="left">Hey, I'm Euller. I’m into AI and games.</h2>
 
 ###
