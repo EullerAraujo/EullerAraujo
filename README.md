@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
 <h2 align="left">Hey, I'm Euller. I’m into AI and games.</h2>
 
 ###
