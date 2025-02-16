@@ -13,7 +13,7 @@
 </div>
 
 ###
-
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
