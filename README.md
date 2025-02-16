@@ -46,7 +46,7 @@
 </div>
 
 ###
-
+<img alt="github-snake" src="https://raw.githubusercontent.com/EullerAraujo/EullerAraujo/output/github-snake.svg" />
 <img src="https://raw.githubusercontent.com/EullerAraujo/EullerAraujo/output/snake.svg" alt="Snake animation" />
 
 ###
