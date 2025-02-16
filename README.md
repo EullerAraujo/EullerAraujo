@@ -1,3 +1,4 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 <h2 align="left">Hey, I'm Euller. I’m into AI and games.</h2>
 
 ###
@@ -51,4 +52,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EullerAraujo/EullerAraujo/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/EullerAraujo/EullerAraujo/output/github-snake.svg" />
 </picture>
-###
+
