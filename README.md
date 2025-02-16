@@ -4,6 +4,7 @@
 ###
 
 <p align="left">👨🏼‍🎓 Studying Computer Science</p>
+<p align="left">👨🏼‍💻 Debugging life one line at a time</p>
 
 ###
 
